@@ -1,0 +1,9 @@
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.csproj.AssemblyReference.cache
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.AssemblyInfoInputs.cache
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.AssemblyInfo.cs
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.csproj.CoreCompileInputs.cache
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jp521\APIsprint\obj\Debug\net10.0\APIsprint.sourcelink.json
