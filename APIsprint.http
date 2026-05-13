@@ -1,0 +1,6 @@
+@APIsprint_HostAddress = http://localhost:5037
+
+GET {{APIsprint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
